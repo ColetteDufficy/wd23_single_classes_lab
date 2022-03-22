@@ -10,3 +10,4 @@ class Student:
         return "I love " + language
     
     # addning a comment to distinguise files
+    git@github.com:ColetteDufficy/wd23_single_classes_lab.git
