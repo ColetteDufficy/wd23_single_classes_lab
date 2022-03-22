@@ -7,7 +7,8 @@ class Student:
         return "I can talk!"
     
     def say_favourite_language(self, language):
-        return "I love " + language
+        # return "I love " + language
+        return f"I love {language}"
     
-    # addning a comment to distinguise files
-    git@github.com:ColetteDufficy/wd23_single_classes_lab.git
+    # adding a comment to distinguise files
+    # git@github.com:ColetteDufficy/wd23_single_classes_lab.git
